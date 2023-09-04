@@ -1,17 +1,17 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Explore with Ease: Mobile Tour Guide"
+  content: "Say goodbye to clunky headphones and hello to a new era of touring. Our app connects you to your tour guide's voice, ensuring you never miss a fascinating detail."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    link: "/"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What's Included in E-Guide"
     image: "/images/service-1.png"
     content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:
