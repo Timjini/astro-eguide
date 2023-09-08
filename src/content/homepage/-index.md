@@ -3,11 +3,11 @@
 banner:
   title: "Explore with Ease: Mobile Tour Guide"
   content: "Say goodbye to clunky headphones and hello to a new era of touring. Our app connects you to your tour guide's voice, ensuring you never miss a fascinating detail."
-  image: "/"
+  image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started For Free"
-    link: "/"
+    link: "/contact"
 
 # Features
 features:
